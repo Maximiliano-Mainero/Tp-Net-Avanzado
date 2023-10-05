@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Tp.MVC;
 using Tp_MVC.Models;
 
 namespace Tp_MVC.Controllers
@@ -8,7 +9,10 @@ namespace Tp_MVC.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            var service = new ServiceClient();
+            var address = service.GetAddress(int.MaxValue);
+
+            return View(address);
         }
 
         public IActionResult Privacy()

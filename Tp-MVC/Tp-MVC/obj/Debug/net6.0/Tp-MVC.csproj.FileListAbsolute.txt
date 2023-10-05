@@ -24,3 +24,26 @@ C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\obj\Debug\net6.0\refint\Tp
 C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\obj\Debug\net6.0\Tp-MVC.pdb
 C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\obj\Debug\net6.0\Tp-MVC.genruntimeconfig.cache
 C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\obj\Debug\net6.0\ref\Tp-MVC.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Connected Services\Tp.MVC\ConnectedService.json
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.Federation.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maximiliano\Desktop\app-prueba\Tp-MVC\Tp-MVC\obj\Debug\net6.0\Tp-MVC.csproj.CopyComplete

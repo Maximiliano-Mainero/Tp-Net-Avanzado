@@ -1,0 +1,7 @@
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\bin\Debug\TP.WebService.Library.dll.config
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\bin\Debug\TP.WebService.Library.dll
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\bin\Debug\TP.WebService.Library.pdb
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\obj\Debug\TP.WebService.Library.csproj.AssemblyReference.cache
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\obj\Debug\TP.WebService.Library.csproj.CoreCompileInputs.cache
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\obj\Debug\TP.WebService.Library.dll
+C:\Users\Maximiliano\Desktop\app-prueba\TP-WebService-Library\TP.WebService.Library\obj\Debug\TP.WebService.Library.pdb
